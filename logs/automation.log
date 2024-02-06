@@ -1,0 +1,6 @@
+01:24:18.366 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked in Registration
+01:24:19.571 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer detail
+01:24:21.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+01:24:21.976 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating  expected message
+01:24:21.976 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+01:24:21.976 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** finished TC_001_AccountRegistrationTest ***
